@@ -103,4 +103,4 @@ We welcome contributions to llm-d-modelservice! Please see our [Contributing Gui
 Please open a ticket if you see a gap in your use case as we continue to evolve this project.
 
 ## Contact
-Get involved or ask questions in the `#sig-model-service` channel in the `llm-d` Slack workspace! Details on how to join the workspace can be found [here](https://github.com/llm-d/llm-d?tab=readme-ov-file#contribute).
+Get involved or ask questions in the `#sig-model-service` channel in the `llm-d` Slack workspace! Details on how to join the workspace can be found [here](https://github.com/llm-d/llm-d?tab=readme-ov-file#contribute.
